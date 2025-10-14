@@ -1,0 +1,10 @@
+# Ignore Outlook/Office temporary and user files
+*.pst
+*.ost
+*.suo
+*.user
+*.log
+*.tmp
+.vscode/
+Thumbs.db
+.DS_Store
